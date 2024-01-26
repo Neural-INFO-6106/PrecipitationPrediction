@@ -1,4 +1,4 @@
-# PrecipitationPrediction
+# Next Day Precipitation Prediction
 
 ## Problem Statement
 Predict Lake Effect precipitation reliably 3 days (or less) in advance by combining satellite data with weather station data. Generate predictive labels for precipitation: "no," "low," "medium," "high."
