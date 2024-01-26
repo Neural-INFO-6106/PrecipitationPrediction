@@ -1,7 +1,6 @@
 # PrecipitationPrediction
 
-**Problem Statement**
-
+**Problem Statement** :
 Pick any city and combine the satellite data with weather station data,can we reliably predict Lake Effect precipitation 3 days (or less?) in advance? Instead of predicting the exact value, you can create predictive labels for precipitation "no", "low", "medium", "high".
 
 **Processing Steps**
