@@ -15,3 +15,22 @@ In our initial modeling step, we perfom a binary classification task differentia
 
 **Step-3 Second Model - To find the amount of precipitaion** :
 In our second modeling phase, we delve deeper into the classification by categorizing Class-1 into low, medium, and high precipitation intensity. This involves filtering values related to precipitation to discern its intensity. The filtered meteorological and cloud data serve as inputs for Long Short-Term Memory (LSTM) and Convolutional Long Short-Term Memory (convLSTM), respectively, with the filtered precipitation labels as the target. Following the same layered approach as described in the first model, this process results in a multi-class classification output."
+
+**List of libraries used:**
+
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300599C.svg?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%237DB5A5.svg?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
+[![KNNImputer](https://img.shields.io/badge/KNNImputer-%23F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/modules/generated/sklearn.impute.KNNImputer.html)
+[![Pickling](https://img.shields.io/badge/Pickle-%237B5EAF.svg)](https://docs.python.org/3/library/pickle.html)
+[![Ast](https://img.shields.io/badge/Ast-%2343853D.svg)](https://docs.python.org/3/library/ast.html)
+[![TQDM](https://img.shields.io/badge/TQDM-%238BBE3C.svg?logo=tqdm&logoColor=white)](https://tqdm.github.io/)
+
+[![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![TensorFlow Keras](https://img.shields.io/badge/TensorFlow_Keras-%23FF6F00.svg?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/guide/keras)
+[![EarlyStopping](https://img.shields.io/badge/EarlyStopping-%23FF6F00.svg?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping)
